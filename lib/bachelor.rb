@@ -20,7 +20,6 @@ def get_contestant_name(data, occupation)
       end
     end
   end
-  # Return full name of winner
   name
 end
 
